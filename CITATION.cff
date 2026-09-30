@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "awe-event-predictor"
+abstract: "Machine-learning prediction of critical tether-load events in airborne wind energy systems."
+type: software
+license: MIT
+authors:
+  - family-names: Pasquali
+    given-names: Monika
+    email: monika.pasquali@bordeaux-inp.fr
+    affiliation: "Delft University of Technology; Univ. Bordeaux, CNRS, Bordeaux INP, IMS"
+preferred-citation:
+  type: article
+  title: "Machine learning-based prediction of critical load events in airborne wind energy systems"
+  journal: "Wind Energy Science Discussions"
+  year: 2026
+  status: preprint
+  # doi: add once the preprint DOI is assigned
+  authors:
+    - family-names: Pasquali
+      given-names: Monika
+      email: monika.pasquali@bordeaux-inp.fr
+      affiliation: "Delft University of Technology; Univ. Bordeaux, CNRS, Bordeaux INP, IMS"
+    - family-names: Cayon
+      given-names: Oriol
+      affiliation: "Delft University of Technology"
+    - family-names: Theodoulis
+      given-names: Spilios
+      affiliation: "Delft University of Technology"
+    - family-names: Farges
+      given-names: Christophe
+      affiliation: "Univ. Bordeaux, CNRS, Bordeaux INP, IMS"
+    - family-names: Airimitoaie
+      given-names: Tudor-Bogdan
+      affiliation: "Univ. Bordeaux, CNRS, Bordeaux INP, IMS"
+    - family-names: Lanusse
+      given-names: Patrick
+      affiliation: "Univ. Bordeaux, CNRS, Bordeaux INP, IMS"
+    - family-names: Schmehl
+      given-names: Roland
+      email: r.schmehl@tudelft.nl
+      affiliation: "Delft University of Technology"

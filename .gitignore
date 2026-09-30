@@ -1,0 +1,33 @@
+# Data (not distributed; generate the dummy dataset with src/make_dummy_dataset.py)
+data/
+**/data/
+*.csv
+
+# Pipeline outputs
+feature_cache/
+saved_models/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
